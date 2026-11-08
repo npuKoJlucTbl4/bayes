@@ -21,7 +21,8 @@
 
 Для удобства ниже приведены команды для клонирования репозитория, создания виртуального окружения и запуска программы через консоль
 
-```git clone https://github.com/npuKoJlucTbl4/bayes
+```
+git clone https://github.com/npuKoJlucTbl4/bayes
 cd bayes
 
 python -m venv venv
