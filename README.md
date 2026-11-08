@@ -21,10 +21,10 @@
 
 Для удобства ниже приведены команды для клонирования репозитория, создания виртуального окружения и запуска программы через консоль
 
-```git clone <ссылка-на-репозиторий>
-cd BayesianExpertSystem
+```git clone https://github.com/npuKoJlucTbl4/bayes
+cd bayes
 
 python -m venv venv
 venv\Scripts\activate
 
-python src/main.py
+python main.py
